@@ -12,6 +12,7 @@
 	<groupId>com.anju</groupId>
 	<artifactId>SportyShoe</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>SportyShoe</name>
 	<description>Demo project for Spring Boot</description>
 
