@@ -23,7 +23,7 @@ import com.anju.sportyshoe.model.User;
 @DisplayName("Purchase Functionality Tests")
 public class PurchaseFunctionalityTest {
 	
-	@Autowired
+	/*@Autowired
 	private PurchaseController purchaseCtrl;
 
 	@Test
@@ -70,6 +70,6 @@ public class PurchaseFunctionalityTest {
 		product.setProductCategory("Womens Shoes");
 		List <Purchase> purchases = purchaseCtrl.reportByCategory(product);
 		assertEquals(3, purchases.size());
-	}
+	}*/
 
 }
