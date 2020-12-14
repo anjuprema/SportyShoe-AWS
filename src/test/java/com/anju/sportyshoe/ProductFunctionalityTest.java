@@ -17,7 +17,7 @@ import com.anju.sportyshoe.model.Product;
 @SpringBootTest
 public class ProductFunctionalityTest {
 	
-	@Autowired
+	/*@Autowired
 	ProductController pdtCtrl;
 	
 	@Test
@@ -61,5 +61,5 @@ public class ProductFunctionalityTest {
 	@DisplayName("Delete Product Test")
 	void testDeleteProduct() {
 		pdtCtrl.deleteProduct(7);
-	}
+	}*/
 }
